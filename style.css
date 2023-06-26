@@ -143,6 +143,9 @@ footer p:last-child{
     .mission-container, .location-container {
         width:100%;
         height:auto;
+    }
+
+    .address-text{
         line-height: 2;
     }
 }
@@ -153,7 +156,7 @@ footer p:last-child{
         height:auto;
     }
 
-    .location-container {
+    .address-text {
         line-height: 2;
     }
 }
