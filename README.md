@@ -4,7 +4,7 @@
 - Responsive webpage built using CSS Flexbox
   - Responsive background image on Mission Section
   - Responsive nav bar
-  - Resonsive images in Tea of the Month Section
+  - Resonsive images in Tea of the Month Section<br>
 ![Video](tea-cozy.gif)
 <br><br>
 Task to build a site meeting the specifications outlined below<br><br>
